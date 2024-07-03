@@ -1,0 +1,23 @@
+{
+  "_comment": "blogs is a resource. and it will create endpoints for us to interact with it.",
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?...",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?...",
+      "author": "yoshi",
+      "id": "2"
+    },
+    {
+      "id": "bc7c",
+      "title": "Sun",
+      "body": "fasjkl fadkl  fslakj fkalj k fadj kfljk jfasdlkjflkdajfdkj jkl jkfdalj",
+      "author": "yoshi"
+    }
+  ]
+}
